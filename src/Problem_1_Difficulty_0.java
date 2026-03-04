@@ -8,7 +8,6 @@ public class Problem_1_Difficulty_0 {
      * Time Complexity: O(n), where n is 1000 as we have to run a loop
      * Issue -> Imagine if the number is dynamic and very large.
      *
-     *
      * Solution 2(Optimized):
      * Step 1: find multiples of 3 and add -> 3+6+9+...+999
      * Which is also like: 3*(1+2+3+...+333)
