@@ -17,6 +17,7 @@ public class Problem_68_Difficulty_4 {
      * Find the MAXIMUM 16‑digit string for a magic 5‑gon ring.
      *
      * Solution 1:
+     *
      * Step 1 — Permute all 10 numbers (10! = 3.6 million)
      * Step 2 — Interpret first 5 as outer nodes, last 5 as inner
      * Step 3 — Check if all 5 lines have equal sum
