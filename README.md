@@ -4,6 +4,8 @@ Optimized **Java** solutions to Project Euler problems.
 
 This repository contains my curated and well‑structured Java solutions to selected Project Euler problems. All solutions are stored inside a single `src` folder, and each file includes a `main` method so it can be run independently. Every solution is written with clean code, mathematical reasoning, and optimized logic.
 
+**In the repoitory's commit message and class names, Difficulty means Level.**
+
 ---
 
 ## 📂 Project Structure
